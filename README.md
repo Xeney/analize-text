@@ -26,7 +26,7 @@ pip install prettytable
 Чтобы использовать программу, вы можете импортировать класс AnalizeText в свой проект:
 
 ```
-from анализ текста import AnalizeText
+from analize_text import AnalizeText
 ```
 
 ### Создание экземпляра класса
